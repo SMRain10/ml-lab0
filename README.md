@@ -4,7 +4,7 @@
 
 The goal of this lab is to review the numpy-pandas-matplotlib/seaborn toolchain.
 
-You will practice loading data from file, manupulating the data in pandas `DataFrame`, inspect data in pandas `DataFrame` and visualize data with pandas, matplotlib and seaborn libraries.
+You will practice loading data from file, manipulating the data in pandas `DataFrame`, inspect data in pandas `DataFrame` and visualize data with pandas, matplotlib and seaborn libraries.
 
 ## What to do
 1. Review:
@@ -18,7 +18,7 @@ You will practice loading data from file, manupulating the data in pandas `DataF
 - `lab0-pandas.ipynb`, save as `lab0-pandas-auto_mpg.ipynb`
 - `lab0-visualization.ipynb`, save as `lab0-visualization-auto_mpg.ipynb`
 
-Instead of `gender`, use `origin`. Instead of `age`, use `mpg`. Or other suitable variabales of your choice.
+Instead of `gender`, use `origin`. Instead of `age`, use `mpg`. Or other suitable variables of your choice.
 
 4. (optional) Review lab0_chicken_prep.ipynb
 
