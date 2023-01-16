@@ -29,6 +29,7 @@ Instead of `gender`, use `origin`. Instead of `age`, use `mpg`. Or other suitabl
 As described above, pandas and visualization notebooks adapted to the auto mpg dataset in two files:
 - `lab0-pandas-auto_mpg.ipynb`
 - `lab0-visualization-auto_mpg.ipynb`
+
 Completed lab0_chicken.ipynb
 
 Commit changes to git with **at least three (3)** student commits for each file
