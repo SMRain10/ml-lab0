@@ -4,7 +4,7 @@
 
 The goal of this lab is to review the numpy-pandas-matplotlib/seaborn toolchain.
 
-You will practice loading data from file, manipulating the data in pandas `DataFrame`, inspect data in pandas `DataFrame` and visualize data with pandas, matplotlib and seaborn libraries.
+You will practice loading data from file, manipulating the data in pandas `DataFrame`, inspecting data in pandas `DataFrame` and visualizing data with pandas, matplotlib and seaborn libraries.
 
 ## What to do
 1. Review:
@@ -32,4 +32,4 @@ As described above, pandas and visualization notebooks adapted to the auto mpg d
 
 Completed lab0_chicken.ipynb
 
-Commit changes to git with **at least three (3)** student commits for each file
+Commit changes to git with **at least two (2)** student commits for each file
